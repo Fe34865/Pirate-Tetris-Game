@@ -1,0 +1,21 @@
+MENU DO JOGO: nome do jogo, nome do jogador, "PLAY"
+
+INTERFACE: grade, pontuação, próxima peça, fundo
+
+PEÇAS: I, J, L, O, S, T, Z
+Cores: I = brown (128, 87, 25)
+       J = orange(222, 128, 33)
+       L = beige (255, 253, 237)
+       O = black (0, 0, 0)
+       S = green (0,255,0)
+       T = yellow (255, 255, 0)
+       Z = red (255,0,0)
+
+R, G, B, 
+
+PONTUAÇÃO: 10pt = Linha preenchida, 50pt = 2Linhas preenchidas(mesma rodada), 30pt = Linhas preenchidas consecutivamente
+
+TEMA: Piratas ~do caribe~  (fundo, https://www.youtube.com/watch?v=K3pU67zxPOM, cores das peças e menu)
+
+TELA DE DERROTA: " jogue aos tubarões! "(emote de caveira) , créditos(nomes e TIA)
+
